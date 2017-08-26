@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GitHub Repo</string>
+
+    <string name="user_name_edit_hint">Please enter a Github username</string>
+</resources>
